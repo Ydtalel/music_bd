@@ -1,4 +1,4 @@
-/*INSERT INTO genre
+INSERT INTO genre
 VALUES
     (8,'поп'),
     (10,'электропоп'),
@@ -52,7 +52,7 @@ VALUES
     (37,25,9),
     (38,14,9); 
     
- */   
+  
 INSERT INTO album 
 VALUES   
 	(1,'When We All Fall Asleep, Where Do We Go?','2019-03-29'),
